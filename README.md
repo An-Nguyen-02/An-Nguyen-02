@@ -1,11 +1,10 @@
 # Hi there, I'm [An Nguyen][website] 👋
 
 ## I'm a Student and Developer!!
----
 - 👀 I’m interested in full-stack developer job/intern/trainee.
 - 🌱 I’m currently learning to build complete website front to back (all the languages and tools I listed below)
 - 👯 I’m looking to collaborate on Open Source projects
-- 🥅 2022 Goals: Contribute to OPen Source projects, build my own projects
+- 🥅 2022 Goals: Contribute to Open Source projects, build my own projects
 - ⚡ Fun fact: I'm a Magician, love playing soccer (goalkeeper), and LOL
 - 📫 Contact me at: nhatan020902@gmail.com
 ### Connect with me:
