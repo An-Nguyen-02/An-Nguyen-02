@@ -1,7 +1,7 @@
 # Hi there, I'm [An Nguyen][website] 👋
 
-## I'm a Student and Developer!!
-- 👀 I’m interested in full-stack developer job/intern/trainee.
+## I'm a Student and Web Developer!!
+- 👀 I’m interested in web/full-stack developer job/intern/trainee.
 - 🌱 I’m currently learning to build complete website front to back (all the languages and tools I listed below)
 - 👯 I’m looking to collaborate on Open Source projects
 - 🥅 2022 Goals: Contribute to Open Source projects, build my own projects
