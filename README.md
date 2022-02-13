@@ -63,7 +63,7 @@
 ### Upcoming projects :
 ✨ [Build website about myself.][website] </br> 
 ✨ [Web service suggest events for students.][EventGo] </br>
-✨ [Web service suggest cookinh recipes and deliver ingredients.][EventGo]
+✨ [Web service suggest cookinh recipes and deliver ingredients.][Smoof]
 
 
 [website]: https://haventcreatedyet
