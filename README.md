@@ -65,6 +65,9 @@
 ✨ [Web service suggest events for students.][EventGo] </br>
 ✨ [Web service suggest cookinh recipes and deliver ingredients.][Smoof]
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkhoa-ng&show_icons=true&locale=en&layout=compact" alt="hkhoa-ng" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkhoa-ng&show_icons=true&locale=en" alt="hkhoa-ng" /></p>
 
 [website]: https://haventcreatedyet
 [linkedin]: https://www.linkedin.com/in/an-nhat-nguyen/
