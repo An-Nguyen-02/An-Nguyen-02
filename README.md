@@ -1,4 +1,4 @@
-# Hi there, I'm [An Nguyen][website] 👋
+# Hi there, I'm An Nguyen, my [Portfio][website] 👋
 
 ## I'm a Student and Web Developer!!
 - 👀 I’m interested in web/full-stack developer job/intern/trainee.
@@ -61,15 +61,14 @@
 </br>
 
 ### Upcoming projects :
-✨ [Build website about myself.][website] </br> 
 ✨ [Web service suggest events for students.][EventGo] </br>
-✨ [Web service suggest cookinh recipes and deliver ingredients.][Smoof]
+✨ [Web service suggest cooking recipes and deliver ingredients.][Smoof]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=An-Nguyen-02&show_icons=true&locale=en&layout=compact" alt="An Nguyen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=An-Nguyen-02&show_icons=true&locale=en" alt="An Nguyen" /></p>
 
-[website]: https://haventcreatedyet
+[website]: https://an-nguyen-02.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/an-nhat-nguyen/
 [behance]: https://www.behance.net/nhatannguyen1
 [telegram]: https://t.me/AnNguyen02
