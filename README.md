@@ -1,4 +1,4 @@
-# Hi there, I'm An Nguyen, my [Portfio][website] 👋
+# Hi there, I'm An Nguyen, my [Portfolio][website] 👋
 
 ## I'm a Student and Web Developer!!
 - 👀 I’m interested in web/full-stack developer job/intern/trainee.
