@@ -1,11 +1,11 @@
-# Hi there, I'm An Nguyen, my [Portfolio][website] 👋
+# Hi there, I'm An Nguyen, this's my [Portfolio][website] 👋
 
 ## I'm a Student and Web Developer!!
-- 👀 I’m interested in web/full-stack developer job/intern/trainee.
-- 🌱 I’m currently learning to build complete website front to back (all the languages and tools I listed below)
+- 👀 I’m interested in Junior/Trainee Cloud/Full-stack web development.
+- 🌱 I’m currently learning to build complete website front to back (all the languages and tools I listed below, eager to learn more)
 - 👯 I’m looking to collaborate on Open Source projects
-- 🥅 2022 Goals: Contribute to Open Source projects, build my own projects
-- ⚡ Fun fact: I'm a Magician, love playing soccer (goalkeeper), and LOL
+- 🥅 2024 Goals: Contribute to Open Source projects, build my own projects
+- ⚡ Fun fact: I'm a Magician, love playing soccer (goalkeeper), and Genshin Impact
 - 📫 Contact me at: nhatan020902@gmail.com
 ### Connect with me:
 
@@ -62,7 +62,7 @@
 
 ### Upcoming projects :
 ✨ [Web service suggest events for students.][EventGo] </br>
-✨ [Web service suggest cooking recipes and deliver ingredients.][Smoof]
+✨ Website for active self-learning progress tracking
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=An-Nguyen-02&show_icons=true&locale=en&layout=compact" alt="An Nguyen" /></p>
 
@@ -73,4 +73,3 @@
 [behance]: https://www.behance.net/nhatannguyen1
 [telegram]: https://t.me/AnNguyen02
 [EventGo]: https://www.behance.net/gallery/134056463/EventGo-Web-Service
-[Smoof]: https://www.behance.net/gallery/131783703/Smoof-Smart-Food-Website
