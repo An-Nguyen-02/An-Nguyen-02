@@ -4,7 +4,7 @@
 - 👀 I’m interested in Junior/Trainee Cloud/Full-stack web development.
 - 🌱 I’m currently learning to build complete website front to back (all the languages and tools I listed below, eager to learn more)
 - 👯 I’m looking to collaborate on Open Source projects
-- 🥅 2024 Goals: Contribute to Open Source projects, build my own projects
+- 🥅 2025 Goals: Contribute to Open Source projects, build my own projects
 - ⚡ Fun fact: I'm a Magician, love playing soccer (goalkeeper), and Genshin Impact
 - 📫 Contact me at: nhatan020902@gmail.com
 ### Connect with me:
